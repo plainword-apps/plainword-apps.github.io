@@ -12,6 +12,7 @@ entirely on Atlassian's own platform, and your data never leaves Atlassian.
 Edit Jira issue descriptions in Markdown, with a live preview of how Jira will show them. Paste answers from ChatGPT
 or Claude and keep their tables, lists, code and checklists.
 
+- [How to use it](markdown-for-jira/)
 - [Privacy policy](markdown-for-jira/privacy.html)
 - [Terms of use](markdown-for-jira/terms.html)
 
